@@ -1,6 +1,6 @@
 # Auxiliar 1 Ingeniería de Software
 Git es un software que permite hacer control de versiones de nuestros proyectos. 
-En esta actividad vamos a aprender conceptos de control de versiones con Git, simulando un flujo de trabajo de desarrollo de software (simplificado). 
+En esta actividad vamos a aprender conceptos de control de versiones con Git, simulando un flujo de trabajo de desarrollo de software (simplificado). La actividad está diseñada para realizarse entre 2 personas, así pueden experimentar el "choque" de cambios entre varias personas".
 
 Esta es una app simple hecha en Django sacada de https://github.com/CITGuru/todoapp. 
 La app es una TODO list donde pueden agregar tareas, ponerles categoría y fecha de término. 
