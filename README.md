@@ -1,19 +1,19 @@
-# Auxiliar 1 Ingeniería de Software
+# Soltando la mano con Git y trabajo en equipo
 Git es un software que permite hacer control de versiones de nuestros proyectos. 
-En esta actividad vamos a aprender conceptos de control de versiones con Git, simulando un flujo de trabajo de desarrollo de software (simplificado). La actividad está diseñada para realizarse entre 2 personas, así pueden experimentar el "choque" de cambios entre varias personas".
+En esta actividad vamos a aprender conceptos de control de versiones con Git, simulando un flujo de trabajo de desarrollo de software (simplificado). La actividad está diseñada para realizarse entre 2 personas, así pueden experimentar el "choque" de cambios entre varias personas.
 
 Esta es una app simple hecha en Django sacada de https://github.com/CITGuru/todoapp. 
 La app es una TODO list donde pueden agregar tareas, ponerles categoría y fecha de término. 
 La versión de este repositorio no tiene la opción de eliminar una tarea, por lo tanto trabajarán en parejas para agregar esta funcionalidad. 
 
-![App antes de la actividad](app-sin-eliminar.png)
-
-_Al final del README están las instrucciones de como correr el proyecto. Se recomienda seguir los pasos y cuando te digamos, recién correr la app._ 
+_Al final del README están las instrucciones de como correr el proyecto. Se recomienda seguir los pasos y cuando te digamos, recién correr la app. No importa si no sabes Django o si no tienes Python en tu computador, lo importante ahora es conocer Git_ 
 >Para usar git necesitarán una consola que tenga git. En Windows pueden descargar git bash y en linux y mac pueden instalar git directo en la terminal. 
+
+![App antes de la actividad](app-sin-eliminar.png)
 
 > Para editar los archivos pueden usar su editor de texto favorito. Algunos recomendados son [Sublime](https://www.sublimetext.com/3), [VS code](https://code.visualstudio.com/), [Pycharm](https://www.jetbrains.com/pycharm/) o [Notepad ++](https://notepad-plus-plus.org/). Varios de estos traen opciones para usar git desde el mismo editor y evitarse usar la consola. 
 > Para esta actividad les recomendamos escribir los comandos y seguir todos los pasos para entender la base de git y luego en el proyecto pueden decidir si usar la consola o una interfaz. 
->  
+
 ## Actividad 
 
 ### [Parte 1: Fork del proyecto]
